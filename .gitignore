@@ -1,0 +1,11 @@
+# Windows null device
+nul
+
+# Claude Desktop internal files
+.claude/
+*.claude_session
+.claude_history
+
+# Claude artifacts and cache
+.anthropic/
+claude_cache/
